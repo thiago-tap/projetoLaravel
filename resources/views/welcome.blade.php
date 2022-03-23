@@ -423,7 +423,7 @@
 
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div class="flex items-center">
-                <a href="https://www.tenil.com.br/">
+                <a href="https://tenil.com.br" target="_blank">
                     <img src="../images/logo_tenil.svg" alt="Tenil Agência Digital" width="100">
                 </a>
                 <div>
