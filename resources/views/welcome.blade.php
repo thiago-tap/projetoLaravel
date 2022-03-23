@@ -401,6 +401,8 @@
         font-family: 'Nunito', sans-serif;
     }
     </style>
+    <link rel="shortcut icon" type="imagex/png" href="../images/logo_tenil.svg">
+
 </head>
 
 <body class="antialiased">
