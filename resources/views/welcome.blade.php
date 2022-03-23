@@ -430,7 +430,7 @@
                 </a>
                 <div>
                     <h1>Tenil Agência Digital!</h1>
-                    <p>Thiago Albuquerque de Paula!</p>
+                    <p>Thiago Albuquerque de Paula!!</p>
                     <p>=)</p>
                 </div>
             </div>
