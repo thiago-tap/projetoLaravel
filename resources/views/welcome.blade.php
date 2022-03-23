@@ -427,8 +427,6 @@
                 <div>
                     <h1>Tenil Agência Digital!</h1>
                     <p>Thiago Albuquerque de Paula!</p>
-                    <p>Roberto Tenil!</p>
-                    <p>João Vitor!</p>
                     <p>Tenil!</p>
                     <p>=)</p>
                 </div>
